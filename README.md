@@ -1,4 +1,4 @@
-![thonk](/thonk.png)
+![thonk](https://github.com/willyb321/willyb321/raw/master/thonk.png)
 
 <!--
 **willyb321/willyb321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
